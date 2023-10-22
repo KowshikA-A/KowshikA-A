@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **roopakowshika@icloud.com**
 
-- 📄 Know about my experiences https://docs.google.com/document/d/1CGdO_H2DM8Bt1GM7q6uv-2fVFuN-VqkTjCWkUb6S-OA/edit?usp=sharing
+- 📄 Know about my experiences **https://docs.google.com/document/d/1CGdO_H2DM8Bt1GM7q6uv-2fVFuN-VqkTjCWkUb6S-OA/edit?usp=sharing**
 
 - ⚡ Fun fact **I can make code disappear... and then reappear in production.**
 
